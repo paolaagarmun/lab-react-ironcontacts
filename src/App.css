@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+th{
+  font-size: 20px;
+}
+
+td {
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+.buttons{
+  margin-left: 30px;
+}
